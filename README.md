@@ -26,7 +26,7 @@ Resources for AWS post-exploitation scenarios where you have the permission ssm:
 
 Some of my talks:
 
-- <a href="https://www.youtube.com/watch?v=XTKtjhn3Dwc" target="_blank>A Methodical Approach to Privilege Escalation in AWS at DefCamp Cluj-Napoca 2024</a>
+- <a href="https://www.youtube.com/watch?v=XTKtjhn3Dwc" target="_blank">A Methodical Approach to Privilege Escalation in AWS at DefCamp Cluj-Napoca 2024</a>
 - <a href="https://www.youtube.com/watch?v=cn7XLaGmmCg" target="_blank">The C2 tool no one talks about: AWS SSM - Run Command</a> at SecurityFest 2023</a>
 - <a href="https://www.youtube.com/watch?v=uKkZOIUTdx4" target="_blank">Cloud Security: Transitioning from Reactivity to Proactivity</a> at Cloud Security Alliance Romania</a>
 - <a href="https://www.youtube.com/watch?v=eyIQ82vvGLk" target="_blank">Cloud Configuration Review – The new internal pentest</a> at DefCamp 2022</a>
