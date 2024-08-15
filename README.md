@@ -6,11 +6,11 @@
 
 Thanks for checking my profile! Here are some things about me:
 
-- 😄 I go by saw-your-packet or Eduard
-- 🔭 Doing a cool cloud research at the moment that will be public soon
+- 😄 I go by Eduard or saw-your-packet 
+- 🔭 Doing cloud research with a focus on the offensive part of it
 - 🌩️ My areas of expertise are cloud security, web application penetration testing and security source code review
-- 📫 How to reach me: contact [at] breakingbreakpoints.com
-- 🤓 I work as a penetration tester, I'm used to write security related articles at securitycafe.ro (new blog coming soon) and I'm doing from time to time security research
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduard-k-agavriloae/) or [Twitter](https://x.com/saw_your_packet)
+- 🤓 You can follow my work on [HackToDef.com](https://hacktodef.com/)
 
 # Tools and resources
 
