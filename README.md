@@ -18,7 +18,7 @@ Thanks for checking my profile! Here are some things about me:
 
 EC2StepShell is an AWS post-exploitation tool for getting high privileges reverse shells in public or private EC2 instances. 
 
-### <a href="https://github.com/saw-your-packet/CloudShovel" target="_blank>CloudShovel</a>
+### <a href="https://github.com/saw-your-packet/CloudShovel" target="_blank">CloudShovel</a>
 
 CloudShovel is a tool for scanning public or private AMIs for secrets.
 
