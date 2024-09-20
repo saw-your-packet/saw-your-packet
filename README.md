@@ -20,7 +20,7 @@ EC2StepShell is an AWS post-exploitation tool for getting high privileges revers
 
 ### <a href="https://github.com/saw-your-packet/CloudShovel" target="_blank">CloudShovel</a>
 
-CloudShovel is a tool for scanning public or private AMIs for secrets.
+A tool for scanning public or private AMIs for sensitive files and secrets. The tool follows the research made on AWS CloudQuarry where we scanned 20k+ public AMIs.
 
 ### <a href="https://github.com/saw-your-packet/fun-with-ssm" target="_blank">fun-with-ssm</a>
 
