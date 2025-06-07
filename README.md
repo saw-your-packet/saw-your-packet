@@ -4,15 +4,19 @@
 
 # /whoami
 
-Thanks for checking my profile! Here are some things about me:
+Hello there and thanks for your interest! Here are some things about me:
 
 - 😄 I go by Eduard or saw-your-packet 
 - 🔭 Doing cloud research with a focus on the offensive part of it
 - 🌩️ My areas of expertise are cloud security, web application penetration testing and security source code review
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduard-k-agavriloae/) or [Twitter](https://x.com/saw_your_packet)
-- 🤓 You can follow my work on [HackToDef.com](https://hacktodef.com/)
+- 🤓 You can follow my work on [HackToDef.com](https://hacktodef.com/) and [OffensAI.com/blog](https://www.offensai.com/blog)
 
 # Tools and resources
+
+### <a hreg="https://github.com/OffensAI/RogueOIDC" target="_blank">RogueOIDC</a>
+
+Minimal Rogue OpenID Connect (OIDC) Provider implementation in Python for AWS role assumption using OIDC authentication.
 
 ### <a href="https://github.com/saw-your-packet/EC2StepShell" target="_blank">EC2StepShell</a>
 
