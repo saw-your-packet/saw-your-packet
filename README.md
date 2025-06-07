@@ -14,7 +14,7 @@ Hello there and thanks for your interest! Here are some things about me:
 
 # Tools and resources
 
-### <a hreg="https://github.com/OffensAI/RogueOIDC" target="_blank">RogueOIDC</a>
+### <a href="https://github.com/OffensAI/RogueOIDC" target="_blank">RogueOIDC</a>
 
 Minimal Rogue OpenID Connect (OIDC) Provider implementation in Python for AWS role assumption using OIDC authentication.
 
