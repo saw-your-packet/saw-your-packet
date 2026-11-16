@@ -10,7 +10,7 @@ Hello there and thanks for your interest! Here are some things about me:
 - 🔭 Doing cloud research with a focus on the offensive part of it
 - 🌩️ My areas of expertise are cloud security, web application penetration testing and security source code review
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eduard-k-agavriloae/) or [Twitter](https://x.com/saw_your_packet)
-- 🤓 You can follow my work on [HackToDef.com](https://hacktodef.com/) and [OffensAI.com/blog](https://www.offensai.com/blog)
+- 🤓 You can follow my work on [OFFENSAI.com/blog](https://www.offensai.com/blog)
 
 # Tools and resources
 
